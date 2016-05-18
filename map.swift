@@ -1,6 +1,9 @@
 //
 //  map.swift
-//  GPS Tracker
+//  Using Maps Swift in iOS Swift Xcode Version 7.3.1
+//  Subject:    How to create a marker or pin on the map.
+//  Fork:       https://github.com/tborges/Using-Maps-Swift-in-Xcode-Version-7.3.1-/blob/master/map.swift
+//  Video:      https://www.youtube.com/watch?v=Idzn65L4p-A
 //
 //  Created by T.B.B. on 5/10/16.
 //  Copyright © 2016 MrBorges. All rights reserved.
