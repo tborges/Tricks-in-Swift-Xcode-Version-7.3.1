@@ -1,6 +1,7 @@
 //
-//  vehicle.swift
-//  GPS Tracker
+//  bouceAnimation.swift
+//  Animated label UILabel in Xcode Version 7.3.1
+//  https://github.com/tborges/Using-Maps-Swift-in-Xcode-Version-7.3.1-/blob/master/bounceAnimation.swift
 //
 //  Created by T.B.B. on 5/13/16.
 //  Copyright © 2016 MrBorges. All rights reserved.
